@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: The Vac Guy
+title: Cade is The Vac Guy
 heading: 'Welcome to The Vac Guy '
 description: 'Central vacuum installations, and vacuum repairs...'
 offerings:
