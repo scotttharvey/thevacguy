@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Cade is The Vac Guy
+title: Higbee is The Vac Guy
 heading: 'Welcome to The Vac Guy '
 description: 'Central vacuum installations, and vacuum repairs...'
 offerings:
