@@ -1,10 +1,8 @@
 ---
 templateKey: home-page
 title: The Vac Guy
-heading: Welcome to The Vac Guy
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+heading: 'Welcome to The Vac Guy '
+description: 'Central vacuum installations, and vacuum repairs...'
 offerings:
   blurbs:
     - image: /img/coffee.png
