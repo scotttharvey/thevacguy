@@ -55,6 +55,8 @@ offerings:
         odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
         massa quis euismod convallis, felis elit sodales urna, at aliquet mi
         elit auctor  risus.
+    - image: /img/mob100.jpg
+      text: MOB!
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
