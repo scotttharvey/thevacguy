@@ -3,6 +3,11 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import styled from '@emotion/styled'
+
+const StyledH1 = styled.h1`
+  font-size: 50px;
+`
 
 const HomePageTemplate = ({
   title,
@@ -24,9 +29,9 @@ const HomePageTemplate = ({
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <h1 className='title'>
+                <StyledH1 className='title'>
                   {title}
-                </h1>
+                </StyledH1>
               </div>
             </div>
           </div>
