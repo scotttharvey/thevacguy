@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: The Vac Guy
-heading: The Vac Guy
+heading: Central Vacuum Specialist
 description: >-
   We specialize in Central Vacuums in Utah, and guarantee that we have the right
   products for you. As an authorized dealer of the best products available in
@@ -17,42 +17,49 @@ offerings:
         your quality of life, and forever change your feelings about vacuuming! 
     - image: /img/coffee-gear.png
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien.
-        Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo
-        eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem
-        sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec
-        nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc
-        tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui
-        dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula
-        interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
-        consectetur congue.
+        Creating a clean and healthy home environment for your family is
+        important.  Many people take their home’s air for granted and assume it
+        is safe, clean and breathable. The problem is, indoor air can be up to
+        100 times more polluted than outdoor air! Several reasons for this
+        increase include today’s more tightly sealed housing construction,
+        synthetic building materials and furnishings, and chemically formulated
+        household products.
     - image: /img/tutorials.png
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
-        quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl.
-        Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque
-        lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla.
-        Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec
-        volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere.
-        Ut suscipit auctor tortor. Phasellus leo dui, elementum  non
-        sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
-        porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
-        risus.
-    - image: /img/meeting-space.png
-      text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
-        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
-        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
-        elit auctor  risus.
+        The CENTRAL VACUUM SYSTEM is the most powerful and convenient way to
+        keep you home looking and feeling clean. Everything about the system is
+        designed for performance from consistent suction power to the
+        comfortable easy to operate hose handle. This is cleaning at its very
+        best.   
+
+
+        Leading organizations are talking about how central vacuum systems
+        improve Indoor Air Quality (IAQ):
+
+
+        "Using central vacuum systems that are vented outside the living space
+        can significantly reduce dust mites, pollens, animal dander and other
+        allergy causing agents." - U.S. Environmental Protection Agency
+
+
+        <strong>
+
+        "Central vacuum systems are among the best indoor air quality
+        investments for your home." – BUILDER Magazine
+
+        </strong>
+
+
+        "Allergy sufferers’ symptoms can be improved up to 61% when using a
+        central vacuum system." – University of California Davis School of
+        Medicine
+
+
+        "The healthiest type of vacuum to operate is a central vacuum that is
+        vented outdoors."
+
+
+        – The Healthy Home Institute
     - image: /img/mob100.jpg
       text: MOB!
 testimonials:
