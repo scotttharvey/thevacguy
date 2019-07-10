@@ -1,22 +1,20 @@
 ---
 templateKey: home-page
-title: Higbee is The Vac Guy
-heading: 'Welcome to The Vac Guy '
-description: 'Central vacuum installations, and vacuum repairs...'
+title: The Vac Guy
+heading: The Vac Guy
+description: >-
+  We specialize in Central Vacuums in Utah, and guarantee that we have the right
+  products for you. As an authorized dealer of the best products available in
+  the current market, we install our products in both new builds, and existing
+  homes, work extensively with amazing contracters, and service all different
+  kinds of commercial businesses. We offer very competitive service and support
+  programs. 
 offerings:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
+        We promise our products will work for you, and will improve your home,
+        your quality of life, and forever change your feelings about vacuuming! 
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
@@ -58,21 +56,30 @@ offerings:
     - image: /img/mob100.jpg
       text: MOB!
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Scott
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
-  - author: Subarashi San
+      "All I can say is Wow! Between the amazing service a tot he quality of
+      products, you can't go wrong with theVACguy" 
+  - author: Mark Green.
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
-meta_title: Home | Gatsby Starter Business
+      "One of the best customer service I have ever experienced!  All of the
+      help you could ask for and more plus honesty which is almost impossible to
+      find anymore. Would recommend to anyone."  
+  - author: Michael
+    quote: >-
+      "It is rare in the high-priced/quick sale world that we find someone who
+      not only loves what they do - they love what they sell.  Jim was
+      EXCEPTIONAL in every sense of the word when selling and installing our
+      central vac.  He carefully answered all of the ridiculous questions I had,
+      came over to my home 3 times to make sure everything was perfect,
+      presented multiple products for purchase and then carefully explained the
+      merits of each.  Without hesitation, I would recommend THEVACGUY to ANYONE
+      and EVERYONE.  I am not only thrilled with our investment, I feel
+      fortunate to have worked with Jim." 
+meta_title: 'The Vac Guy | Central Vacuum installations and repairs | Ogden UT '
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Central Vacuum installations and repairs in Ogden UT area. Access to the best
+  products available in the current market.  Experience wonderful customer
+  service. Call 801-479-7555 for more information.
 ---
 
